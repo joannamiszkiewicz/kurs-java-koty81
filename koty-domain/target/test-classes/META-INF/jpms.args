@@ -1,0 +1,4 @@
+--patch-module
+koty.domain=_
+--add-reads
+koty.domain=ALL-UNNAMED

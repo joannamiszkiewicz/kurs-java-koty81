@@ -1,0 +1,4 @@
+pl\kobietydokodu\koty\dto\KotDTO.class
+pl\kobietydokodu\koty\dto\NotZeroWeight.class
+pl\kobietydokodu\koty\controllers\KotyController.class
+pl\kobietydokodu\koty\dto\WeightValidator.class

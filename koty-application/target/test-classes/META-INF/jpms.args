@@ -1,0 +1,4 @@
+--patch-module
+koty.application=_
+--add-reads
+koty.application=ALL-UNNAMED
